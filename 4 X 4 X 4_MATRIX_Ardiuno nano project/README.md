@@ -131,3 +131,5 @@ For any questions or suggestions, feel free to **open an issue** on GitHub.
 
 Happy Coding! 🎯🚀
 
+<br><br>
+<h6><p align="center">copyrights © 2025 MUHAMMAD WALEED | All rights reserved </h6> </p>
