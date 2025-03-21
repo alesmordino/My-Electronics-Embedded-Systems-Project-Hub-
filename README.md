@@ -50,7 +50,9 @@ Each project builds on my skills and passion for **electronics, programming, and
 ---
 
 ## 👤 About Me
-I am an **electronics enthusiast and programmer** with a keen interest in **embedded systems, automation, and IoT projects**. My goal is to:
+I am an **electronics enthusiast and programmer** with a keen interest in **embedded systems, automation, and IoT projects**.
+My goal is to:
+
 ✅ **Build innovative solutions** using a variety of microcontrollers and platforms.  
 ✅ **Explore & experiment** with new ideas.  
 ✅ **Share my work** with the world and **contribute to the maker community**.  
