@@ -89,9 +89,9 @@ This project is open-source under the **MIT License**. You are free to use, modi
 ## 📞 Contact
 For any questions, ideas, or collaborations, feel free to **reach out or open an issue** on GitHub.
 
--🔗 Check out my projects here: [My GitHub Repository](https://github.com/W-N-R)
+🔹🔗 Check out my projects here: [My GitHub Repository](https://github.com/W-N-R)
 
--📧 Contact me: [Email Me](mailto:waleednaeem133@gmail.com)
+🔹📧 Contact me: [Email Me](mailto:waleednaeem133@gmail.com)
 
 Happy Coding & Creating! 🎯🚀
 
