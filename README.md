@@ -17,16 +17,14 @@ This project is a **4×4×4 LED Cube Display** controlled by an **Arduino Nano**
 ## 📦 Components Required
 | Component               |   Quantity     |
 |-------------------------|----------------|
-| Arduino Nano / UNO      | 1              |
+|       Arduino Nano / Arduino UNO      | 1              |
 |       4×4×4 LED Cube    | 64 LED lights  |
 |       Resistors (1.2kΩ) | 4 in each layer|
 |       Jumper Wires      | As needed      |
-|       Breadboard        | 1              |
-|   Vero Board (Optional) | 1              |
-|       PCB (Optional)    | 1              |
+|       Breadboard / Vero Board /  PCB     | 1              |
 |       Power Supply (5V) | 1              |
-|       Solder            | 1              |
-|    Container (optional) | 1              |
+|       Solder machine  , flux & soldering wire         | 1              |
+|       Container (optional) | 1              |
 -------
 
 ## 🔌 Circuit Diagram
