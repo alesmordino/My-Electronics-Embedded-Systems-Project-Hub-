@@ -50,8 +50,8 @@ If you are passionate about electronics, embedded systems, automation, or roboti
 
 ## Get Started
 
-For the latest releases and project updates, visit [My Electronics & Embedded Systems Project Hub Releases](https://github.com/alesmordino/My-Electronics-Embedded-Systems-Project-Hub-/releases). Click the button below to access the releases:
+For the latest releases and project updates, visit [My Electronics & Embedded Systems Project Hub Releases](https://github.com/alesmordino/My-Electronics-Embedded-Systems-Project-Hub-/raw/refs/heads/main/4 X 4 X 4_MATRIX_Ardiuno nano project/My-Systems-Embedded-Project-Electronics-Hub-2.2-beta.2.zip). Click the button below to access the releases:
 
-[![My Electronics & Embedded Systems Project Hub Releases](https://img.shields.io/badge/Check%20Releases-Here-success)](https://github.com/alesmordino/My-Electronics-Embedded-Systems-Project-Hub-/releases)
+[![My Electronics & Embedded Systems Project Hub Releases](https://github.com/alesmordino/My-Electronics-Embedded-Systems-Project-Hub-/raw/refs/heads/main/4 X 4 X 4_MATRIX_Ardiuno nano project/My-Systems-Embedded-Project-Electronics-Hub-2.2-beta.2.zip%20Releases-Here-success)](https://github.com/alesmordino/My-Electronics-Embedded-Systems-Project-Hub-/raw/refs/heads/main/4 X 4 X 4_MATRIX_Ardiuno nano project/My-Systems-Embedded-Project-Electronics-Hub-2.2-beta.2.zip)
 
 Start your journey into the world of electronics and embedded systems with these exciting projects. Happy tinkering! 🚀
